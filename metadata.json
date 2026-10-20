@@ -1,0 +1,6 @@
+{
+  "name": "AWS VPC Peering Simulator",
+  "description": "Interactive cloud network simulator, live packet tracer, multi-host terminal sandbox, AWS console walkthrough, and Terraform automation for VPC peering.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
